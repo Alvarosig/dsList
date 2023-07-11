@@ -36,4 +36,5 @@ public class Game {
 	
 	@Column(columnDefinition = "TEXT")
 	private String longDescription;
+	
 }
